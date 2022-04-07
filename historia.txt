@@ -1,5 +1,11 @@
 Esta es la historia de Alejandro Monge
 
+<<<<<<< HEAD
 Alejandro Monge tiene 32 años y nacio en El Salvador
 
 Mañana hablaremos de su vida laboral.
+=======
+Alejandro tiene 21 años de edad y vive en San Salvador.
+
+Aca comienza su historia...
+>>>>>>> 054be3cb698b74cac762bcb495418888c47049e9
